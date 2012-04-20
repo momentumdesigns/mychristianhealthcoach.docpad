@@ -1,0 +1,6 @@
+# ignore junk
+.DS_Store
+Thumbs.db
+
+# dependencies are listed in package.json
+node_modules
