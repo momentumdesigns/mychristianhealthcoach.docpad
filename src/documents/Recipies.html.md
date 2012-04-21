@@ -2,7 +2,9 @@
 title: 'Recipies'
 layout: 'default'
 ---
-Recipes  RAW RECIPES
+Recipes  
+
+RAW RECIPES
 Soups
 Nut Milks
 Salads/Dressings
