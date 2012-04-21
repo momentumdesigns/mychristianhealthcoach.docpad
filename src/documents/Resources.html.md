@@ -7,10 +7,12 @@ Resources
 Celiac Organization - news 
 updates and more!
 
-http://www.celiac.comGluten Intolerance Group 
+http://www.celiac.comGluten 
+Intolerance Group 
 (has a great quick start diet)
 
-http://www.gluten.netGluten Free Diet book 
+http://www.gluten.netGluten 
+Free Diet book 
 by Shelley Case, RD
 http://www.glutenfreediet.caGluten 
 
@@ -38,7 +40,8 @@ Allergy Post it Notes
 http://www.allernotes.comGluten 
 
 Free Certification Organization
-http://www.gfco.orgGluten Free Recipes
+http://www.gfco.orgGluten 
+Free Recipes
 http://www.elanaspantry.com
 
 Quality Products From Around The World 
