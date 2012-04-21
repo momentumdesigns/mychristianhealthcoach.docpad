@@ -17,4 +17,4 @@ This is insanely awesome as we also have docpad's autoupdate plugin enabled. So 
 
 Later on there will be a nice video here to show you how to utilise all the awesomeness you now have in your possession, for now just refer to the [DocPad FAQ](https://github.com/bevry/docpad/wiki/FAQ)
 
-Awesome.
+Awesome.New Change.
