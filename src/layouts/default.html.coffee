@@ -1,5 +1,5 @@
 ---
-title: 'Blank Canvas'
+title: 'Dawn Lisa Borowski | Certified Health and Wellness Coach'
 ---
 
 doctype 5
@@ -21,7 +21,7 @@ html lang: 'en', ->
 		text @blocks.styles.join('')
 		link rel: 'stylesheet', href: '/styles/style.css', media: 'screen, projection'
 		link rel: 'stylesheet', href: '/styles/print.css', media: 'print'
-	body ->
+	body '.body-noise', ->
 		# Document
 		text @content
 
