@@ -1,5 +1,5 @@
 ---
-title: 'My Christian Health Coach'
+title: 'Your Program'
 layout: 'default'
 ---
 Your personalized program will radically improve your health and happiness. Together, we will explore concerns specific to you and your body and discover the tools you need for a lifetime of balance.
