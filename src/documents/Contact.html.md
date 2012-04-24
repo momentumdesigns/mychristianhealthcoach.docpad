@@ -1,5 +1,4 @@
 ---
-title: 'Events'
+title: 'Contact'
 layout: 'default'
 ---
-
