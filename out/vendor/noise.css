@@ -20,7 +20,7 @@ Instructions:
 	z-index: 1;
 	}
 
-.noise:before, .body-noise:before {
+.noise:before, .body-noise:before, html:before {
 	content: "";
 	position: absolute;
 	z-index: -1;

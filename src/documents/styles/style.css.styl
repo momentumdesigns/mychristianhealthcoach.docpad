@@ -9,9 +9,244 @@
 // nib: http://visionmedia.github.com/nib/
 @import 'nib'
 
+// noise: http://www.mightymeta.co.uk/1269/css-noise/
+@import 'noise'
+
+// ====================================
+// Colors
+light-green = #b8db9a
+green       = #9BCD6E
+dark-green  = #68874a
+gray        = #666
+dark-gray   = #333
+blue        = #b7dbeb
+
+// ====================================
+// Semantic.gs Layout
+
+column-width = 48px
+gutter-width = 30px
+columns = 12
+
+@import 'grid'
+
+section#page-body
+  width: total-width
+  margin: 0 auto
+  overflow: hidden
+  header
+    column(12)
+    a.masthead
+      display: block
+      height: 200px
+    h1
+      display: none
+  article
+    column(9)
+  aside
+    column(3)
+  footer
+    column(12)
 
 // ====================================
 // Styles
 
-@import '/vendor/noise.css'
+a
+  color: green
+  &:hover
+    color: gray
+  footer &,
+  header nav &
+    color: dark-gray
+    &:hover
+      color: white
 
+section#page-body
+  box-shadow: 0 0 25px 10px blue
+  border-left: 1px solid blue
+  border-right: 1px solid blue
+  background: -10px 0 url('/images/site_construction_02.jpg') no-repeat
+  > footer
+    background: linear-gradient(top, light-green, dark-green);
+    // background-image: url('/images/footer.jpg')
+
+section#contact-card
+  background-image: url('/images/sidebar.jpg')
+  background-repeat: no-repeat
+  display: block
+  width: 196px
+  height: 543px
+  padding: 200px 0 0
+  div
+    margin: 20px
+  div.name
+    font-size: 1.3em
+    color: white
+    font-weight: bold
+  div.job-title,
+  div.address,
+  div.phone
+    font-size: 1em
+    color: gray
+    font-weight: bold
+  div.bible-quote
+    font-size: 0.8em
+    span.quote
+      font-style: italic;
+
+// body
+//   background: linear-gradient(left, #eee, 90% white, 10% black);
+
+// body
+//   noise()
+
+// body
+//   font-family:Verdana, Arial, Helvetica, sans-serif;
+//
+// .body_text
+//   color:#333333;
+//   font-size:13px;
+//
+// .buttons
+//   background-image:url('/images/buttons.jpg');
+//   background-repeat:repeat-x;
+//   height: 27px; width: 114px;
+//   text-align:center;
+//   vertical-align:middle;
+//   color:#333333;
+//   font-size:13px;
+//   float:left;
+//   clear:none;
+//   border-right: 2px solid #ffffff;
+//   font-family:Verdana, Arial, Helvetica, sans-serif;
+//   cursor:pointer;
+//
+// .buttons_hover
+//   background-image:url('images/buttons_hover.jpg');
+//   background-repeat:repeat-x;
+//   height: 27px;
+//   width: 114px;
+//   text-align:center;
+//   vertical-align:middle;
+//   color:#ffffff;
+//   font-size:13px;
+//   float:left;
+//   clear:none;
+//   border-right: 2px solid #ffffff;
+//   font-family:Verdana, Arial, Helvetica, sans-serif;
+//   cursor:pointer;
+//
+// .buttons:hover
+//   background-image:url('images/buttons_hover.jpg');
+//   color:#FFFFFF;
+//
+// .green
+//   color:#9BCD6E;
+//   font-size:17px;
+//   font-weight:bold;
+//
+// .green_col
+//   color:#9BCD6E;
+//   font-size:13px;
+//   font-weight:bold;
+//
+// a
+//   .link
+//     color:#9BCD6E;
+//     font-size:13px;
+//     font-weight:bold;
+//
+//     :hover
+//       color:#666666;
+//       font-size:13px;
+//       font-weight:bold;
+//
+//   .link_black
+//     color:#666666;
+//     font-size:13px;
+//     font-weight:bold;
+//
+//     :hover
+//       color:#000000;
+//       font-size:13px;
+//       font-weight:bold;
+//
+//   .link_reg
+//     color:#9BCD6E;
+//     font-size:13px;
+//     text-decoration:underline;
+//
+//     :hover
+//       color:#666666;
+//
+//   .link_reg_2
+//     color:#666666;
+//     font-size:13px;
+//     text-decoration:underline;
+//
+//     :hover
+//       color:#9BCD6E;
+//
+//
+//   .link_reg_3
+//     color:#9BCD6E;
+//     font-size:15px;
+//     text-decoration:underline;
+//
+//     :hover
+//       color:#666666;
+//
+//
+// .label
+//   color:#333333;
+//   font-size:13px;
+//
+// .form_field
+//   font-size: 13px;
+//   margin-bottom: 5px;
+//   display: block;
+//   padding: 4px;
+//   border: solid 1px #9BCD6E;
+//   width: 300px;
+//   background-image: url('images/form_field.jpg');
+//   background-repeat: repeat-x;
+//   background-position: top;
+//
+// .text_area
+//   font-size: 13px;
+//   margin-bottom: 5px;
+//   display: block;
+//   padding: 4px;
+//   border: solid 1px #9BCD6E;
+//   width: 300px;
+//   background-image: url('/images/form_text_area.jpg');
+//   background-repeat: repeat-x;
+//   background-position: top;
+//
+// .form_button
+//   background-image:url('/images/buttons.jpg');
+//   background-repeat:repeat-x;
+//   height: 27px;
+//   width: 130px;
+//   text-align:center;
+//   vertical-align:middle;
+//   color:#333333;
+//   font-size:13px;
+//   float:left;
+//   clear:none;
+//   border-right: 2px solid #ffffff;
+//   cursor:pointer;
+//
+// .scripters_left
+//   color:#9BCD6E;
+//   font-size:15px;
+//   font-weight:bold;
+//   padding:5px;
+//   text-align:right;
+//   vertical-align:top;
+//
+// .scripters_right
+//   color:#666666;
+//   font-size:11px;
+//   padding:5px;
+//   text-align:left;
