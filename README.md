@@ -59,7 +59,12 @@ It's essentially everything you could ever want JSFiddle to be...
     Briefly summarize your changes and `sync and commit` them.
 
 
+## Working with Markdown
+
+Check out the [cheat sheet].
 
 ## License
 
 [The Blank Canvas Skeleton](https://github.com/bevry/canvas.docpad) for [DocPad](https://github.com/bevry/docpad) is created by [Benjamin Lupton](http://balupton.com) and licensed under the [Creative Commons Zero License](http://creativecommons.org/publicdomain/zero/1.0/)
+
+ [cheat sheet]: http://support.mashery.com/docs/customizing_your_portal/Markdown_Cheat_Sheet
