@@ -4,3 +4,7 @@ Thumbs.db
 
 # dependencies are listed in package.json
 node_modules
+
+# generated site
+out
+
