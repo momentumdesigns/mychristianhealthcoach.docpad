@@ -7,6 +7,7 @@ Welcome
 Health Counseling is a unique, exciting innovation in health and nutrition. As a Health Counselor, I have studied all the major dietary theories and will help you discover what approach works best for you at this point in your life. While most dietitians dwell on calories, carbs, fats, proteins, restrictions and lists of good and bad foods, I work with my clients to create a happy, healthy life in a way that is flexible, fun and free of stress and guilt.
 ![basket with fresh produce](/images/harvest.jpg)
 
+![lady with arms up](/images/lady.jpg)
 No one diet works for everyone.
 I will guide you to find the food and lifestyle choices that best support you. I will also help you to make gradual, lifelong changes that enable you to reach your current and future health goals.
 
