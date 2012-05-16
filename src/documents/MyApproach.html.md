@@ -17,3 +17,4 @@ Healthy relationships, a fulfilling career, regular physical activity and a spir
 Primary food is more than what is on your plate. Healthy relationships, regular physical activity, a sense of purpose and your personal relationship with the Lord can fill your soul and satisfy your hunger for life. When primary food is balanced and satiating, your life feeds you, making what you eat secondary.
 
 Integrative Nutrition Pyramid
+![Integrative Nutrition Pyramid Chart](/images/chart.jpg)
