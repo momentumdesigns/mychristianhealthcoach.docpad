@@ -110,3 +110,8 @@ http://www.barryfarm.com
 
 Natural Grocers
 http://www.naturalgrocers.com
+
+![Vita Mix Blender Image](/images/blender_img.jpg)
+
+![Health Force Image](/images/HEALTH-FORCE.jpg)
+
