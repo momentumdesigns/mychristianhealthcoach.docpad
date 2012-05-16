@@ -8,10 +8,9 @@ I think that the most important reason I chose to look for a health coach was de
 
 My husband looked online for a Health Coach. Someone who is a Christian and I am and could help me figure out the root of the depression and anxiety. I met with Dawn over the phone. This was the person I was looking for ! God put me in touch with a personable, loving and generous woman of God. Wow! I am so glad I called her!! I called her a couple days after my 50th birthday and have been so pleased with the results of feeling energetic and whole. It is a new experience for me because I had really never felt this really healthy before! What a difference she (Dawn) has made in my life! The real culprit? SUGAR!!! I have been off of white sugar for 2 months now and I have never felt better! What an eye-opening experience! Who knew that going off the white stuff would change so much? I had a real hard time, in the beginning, because I was so attached to it. I was a slave to sugar. I had to have it to pump me up, at the end of every meal, when I was sad, angry,etc. And now that has gone away. No need for the processed sweetener. The chains have been lifted and I have no more problems with anxieties, depression, SAD,etc. I do feel sadness at times but not the drag-me-down tormenting angst I had in the past. Thank You Jesus! 
 
--B.F. Poughkeepsie, NY 
+-B.F. Poughkeepsie, NY
 
-
-Insert John Orlando Video Here
+<iframe width="420" height="315" src="http://www.youtube.com/embed/_79C58APlU8" frameborder="0" allowfullscreen></iframe> 
 
 Dawn is a "Champion for Health" who truly cares about helping people get healthy physically, mentally and spiritually. 
 

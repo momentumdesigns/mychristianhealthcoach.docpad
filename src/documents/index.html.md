@@ -17,6 +17,3 @@ Click Here to get Started Find out by scheduling a free consultation with me. We
 
 If you have already scheduled a consultation or are an existing client, click the following links to fill out your health history form or revisit form.
 
-Women's Health History Form
-Men's Health History Form
-Revisit Form
