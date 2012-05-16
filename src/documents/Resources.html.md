@@ -112,6 +112,8 @@ Natural Grocers
 http://www.naturalgrocers.com
 
 ![Vita Mix Blender Image](/images/blender_img.jpg)
+<https://secure.vitamix.com/Default.aspx?COUPON=06-004312>
 
 ![Health Force Image](/images/HEALTH-FORCE.jpg)
+<http://www.healthforce.com/>
 
