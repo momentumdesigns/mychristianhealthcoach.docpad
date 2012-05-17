@@ -1,50 +1,48 @@
 {
-	"name": "canvas.docpad",
-	"version": "0.3.0",
+	"name": "mychristianhealthcoach.docpad",
+	"version": "0.4.0",
 	"description": "The Blank Canvas Skeleton for DocPad. Your web development playground.",
-	"homepage": "https://github.com/bevry/canvas.docpad",
+	"homepage": "https://github.com/wenzowski/mychristianhealthcoach.docpad",
 	"keywords": [
 		"playground",
 		"website",
 		"docpad",
 		"theme"
 	],
-    "author": "Bevry Pty Ltd <us@bevry.me> (http://bevry.me)",
-    "maintainers": [
-        "Benjamin Lupton <b@lupton.cc> (http://balupton.com)"
-    ],
-    "contributors": [
-        "Benjamin Lupton <b@lupton.cc> (http://balupton.com)"
-    ],
+	"author": "Alexander Wenzowski <alexander@wenzowski.com> (http://alexander.wenzowski.com)",
+	"maintainers": [
+		"Alexander Wenzowski <alexander@wenzowski.com> (http://alexander.wenzowski.com)"
+	],
+	"contributors": [
+		"Alexander Wenzowski <alexander@wenzowski.com> (http://alexander.wenzowski.com)"
+	],
 	"bugs": {
-		"url": "https://github.com/bevry/canvas.docpad/issues"
+		"url": "https://github.com/wenzowski/mychristianhealthcoach.docpad/issues"
 	},
 	"repository" : {
 		"type" : "git",
-		"url" : "http://github.com/bevry/canvas.docpad.git"
+		"url" : "http://github.com/wenzowski/mychristianhealthcoach.docpad.git"
 	},
 	"dependencies": {
 		"coffee-script": "1.3.x",
 		"express": "2.5.x",
-		"docpad": "5.0.x",
+		"docpad": "5.2.0",
+		"docpad-plugin-cachr": "latest",
+		"docpad-plugin-cleanurls": "latest",
 		"docpad-plugin-coffee": "latest",
 		"docpad-plugin-eco": "latest",
+		"docpad-plugin-feedr": "latest",
 		"docpad-plugin-haml": "latest",
 		"docpad-plugin-hogan": "latest",
 		"docpad-plugin-jade": "latest",
 		"docpad-plugin-less": "latest",
 		"docpad-plugin-markdown": "latest",
-		"docpad-plugin-stylus": "latest",
-		"docpad-plugin-sass": "latest",
-		"docpad-plugin-cachr": "latest",
-		"docpad-plugin-cleanurls": "latest",
-		"docpad-plugin-feedr": "latest",
 		"docpad-plugin-partials": "latest",
-		"docpad-plugin-related": "latest"
+		"docpad-plugin-related": "latest",
+		"docpad-plugin-sass": "latest",
+		"docpad-plugin-stylus": "latest"
 	},
 	"engines" : {
 		"node": ">=0.4.0"
-	},
-	"docpad": {
 	}
 }
