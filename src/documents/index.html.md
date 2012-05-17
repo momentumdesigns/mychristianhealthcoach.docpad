@@ -9,7 +9,7 @@ Health Counseling is a unique, exciting innovation in health and nutrition. As a
 
 
 ![lady with arms up](/images/lady.jpg "ArmsUpLady")
-img[alt~=arms]
+img[alt~=ArmsUpLady]
   float:right
 No one diet works for everyone.
 I will guide you to find the food and lifestyle choices that best support you. I will also help you to make gradual, lifelong changes that enable you to reach your current and future health goals.
