@@ -1,14 +1,14 @@
 links = [{
-  uri: '/articles',
+  uri: '/articles.html',
   name: 'Articles'
 },{
-  uri: '/scriptures',
+  uri: '/scriptures.html',
   name: 'Healing Scriptures'
 },{
-  uri: '/recipes',
+  uri: '/recipes.html',
   name: 'Recipes'
 },{
-  uri: '/referral',
+  uri: '/referrals.html',
   name: 'Referrals'
 }]
 
