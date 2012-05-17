@@ -2,7 +2,7 @@ links = [{
   uri: '/articles.html',
   name: 'Articles'
 },{
-  uri: '/scriptures.html',
+  uri: '/healing-scriptures.html',
   name: 'Healing Scriptures'
 },{
   uri: '/recipes.html',
