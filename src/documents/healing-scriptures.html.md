@@ -2,7 +2,8 @@
 title: 'Healing Scriptures'
 layout: 'default'
 ---
-Healing Scriptures  Romans 10 tells us that faith comes from hearing and hearing from the word of Christ. To help us believe God for healing oursleves, our friends and our families it helps to have a good grasp of the Scriptures concerning healing. These Scriptures are small enough to be written on a business card sized bit of paper, carried around and memorised.   
+### Healing Scriptures  
+Romans 10 tells us that faith comes from hearing and hearing from the word of Christ. To help us believe God for healing oursleves, our friends and our families it helps to have a good grasp of the Scriptures concerning healing. These Scriptures are small enough to be written on a business card sized bit of paper, carried around and memorised.   
 
 1.	(Exodus 15:26 NKJV) and said, "If you diligently heed the voice of the LORD your God and do what is right in His sight, give ear to His commandments and keep all His statutes, I will put none of the diseases on you which I have brought on the Egyptians. For I am the LORD who heals you."
 

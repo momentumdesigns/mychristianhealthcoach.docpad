@@ -2,15 +2,7 @@
 title: 'Articles'
 layout: 'default'
 ---
-Articles  
-
-The Skinny On Fats - Omega 3's by Dr. Policano
-Top 10 Foods for Women's Health by Dr. Policano
-Essential Sugars
-Weight Loss and Detoxification
-Joint Health Rejuvenation
-The Value of Organic Foods and Organic Goji Berries  
-  
+# Articles  
 The Skinny on Fats: Omega-3's
 Dr. Ariel Policano by Dr. Ariel Policano 
 
@@ -46,10 +38,9 @@ And finally, here is an amazing key to maintaining healthy weight! By consuming 
 
 Enjoy the fats listed below in moderation and you will likely experience fewer aches and pains, better mood and memory, better hormonal health and maybe even some weight loss! After all, now you have the skinny on fats.
 
-Joint Health Rejuvenation 
+### Joint Health Rejuvenation 
 by David Wolfe, JD 
-
-Introduction 
+##### Introduction 
 Joint pain and inflammation are symptoms that will concern nearly each and every one of us eventually. Arthritic pain and inflammation are not peculiar to humans, but also affect other mammals - even wild mammals that eat only natural food. This evidence along with research compiled by Douglas Muhall in his book The Calcium Time Bomb indicates that joint pain and inflammation may be caused by infectious organisms that reproduce slowly and become more pronounced with age. 
 
 Because we know that certain foods, superfoods, herbs, and supplements fight infectious organisms (e.g. garlic fights viruses, pau d'arco kills fungus, coconut oil dissolves certain types of bacteria) we may deduce that correctly chosen foods, superfoods, and herbs may fight the organisms that affect our joints. 
@@ -62,14 +53,14 @@ I believe this basic weakness of mammal biology is something we can defend, fort
 
 Here are the nutrients we should be looking for in our food, superfoods, herbs, and supplements that support and defend our joints (either directly or indirectly): 
 
-Minerals
+### Minerals
 Sulfur
 Silicon
 Ormus Gold
-Vitamins
+### Vitamins
 E
 C
-Polysaccharides
+### Polysaccharides
 Beta 1,3 Glucans
 Beta 1,4 Glucans
 Beta 1,6 Glucans
@@ -78,14 +69,14 @@ Fucose
 N-Acetylgalactosamine
 N-Acetylglucosamine
 N-Acetylneurominic Acid
-Fats and Oils
-Omega 3 and 6 Fatty Acids (ALA, DHA, EPA, GLA)
+### Fats and Oils
+### Omega 3 and 6 Fatty Acids (ALA, DHA, EPA, GLA)
 Antioxidants
 Alpha-mangostin
 Gamma-mangostin
 Garcinone E
 Blue Phycocyanin
-Amino Acids
+### Amino Acids
 Phenylalanine
 Tyrosine
 Lysine
@@ -98,38 +89,39 @@ We assume that refined sugar, trans-fatty acids (hydrogenated or partially hydro
 
 HEMP PRODUCTS (seeds, protein powder, oil): 
 
-HEMP SEEDS: 
+### HEMP SEEDS: 
 
 Hemp seeds are considered by leading researchers and medical doctors to be one of the most nutritious food sources on the planet. Shelled hemp seed is packed with 33 percent pure digestible protein and is rich in iron and vitamin E as well as omega-3 ALA and omega 6 GLA. Hemp also contains three times the vitamin E contained in flax. A recent report funded by the Canadian government states that hemp protein is comprised of 66 percent high-quality edestin protein, and that hemp seed contains the highest percentage of this of any plant source. Edestin contains the following amino acids in significant quantities: tryptophan, phenylalanine, tyrosine, and lysine. 
 
 In 1915, the Journal of Biological Chemistry discussed edestin at length. A later issue published a vegetable protein study. In the study, edestin was considered suitable as a sole protein source for animals. The study also stated that "the relatively large amounts of lysine present in the...hempseed...is especially noteworthy." 
 
-HEMP PROTEIN POWDER: Hemp protein powder, is made from raw, hemp seeds (cold-processed at less than 85 degrees). It is super finely milled to contain 37% protein, with much of the oil removed. Hemp Protein is a balanced, "whole" protein, rich in essential fatty acids, amino acids, vitamins, minerals and anti-oxidants. 
+### HEMP PROTEIN POWDER: 
+Hemp protein powder, is made from raw, hemp seeds (cold-processed at less than 85 degrees). It is super finely milled to contain 37% protein, with much of the oil removed. Hemp Protein is a balanced, "whole" protein, rich in essential fatty acids, amino acids, vitamins, minerals and anti-oxidants. 
 
 Hemp's superior 66% edestin and 33% albumin protein structure is the highest in the plant kingdom, making it the Gold Standard of Plant Protein. 
 
-HEMP OIL: 
+### HEMP OIL: 
 
 Hemp is one of very few plants that contains both of Omega 6 (GLA) and Omega 3 (ALA) an even rarer fatty acid. Hemp oil normally contains about 80% polyunsaturated fatty acids, with Omega 6 and 3 in a ratio of 3:1. 
 
-MSM (powder or capsules:)
+### MSM (powder or capsules:)
 MSM is a naturally occuring form of dietary sulfur found in fresh raw foods that are involved in the cycle of rain. MSM is deficient in foods grown in greenhouses or in foods grown through irrigation. MSM is volatile and destroyed by cooking. In the body, MSM softens leathery internal tissues by rebuilding connective tissue with elastic sulfur bonds. This is how MSM lives up to its reputation of building collagen and maintaining healthy joints. This is also why MSM increases flexibility (good for yoga), hastens recovery time from sore muscles, and is excellent for recovery from athletic injuries. 
 
 Because of its collagen-building properties, MSM creates smooth skin, thick lustrous hair, and strong nails. MSM makes the tissues more permeable so that they may move nutrients in and toxins out with greater ease. MSM has a remarkable effect at neutralizing foreign proteins (i.e. allergens, toxins, undigested food) making it anti-inflammatory. MSM works particularly well in conjunction with vitamin-C rich foods. 
 
-MSM LOTION: 
+### MSM LOTION: 
 
 Get your MSM from the outside in! What you put on your skin is just as important as what you take into your body via food. MSM lotion/cream does more than just soften and moisturize your skin, it helps restore and rejuvenate dry, rough skin, leaving it smooth and silky. This pure cream delivers all the value of MSM directly to the skin surface. Because a past or present MSM deficiency may have created scar tissue and wrinkles, this cream should be applied daily directly to damaged skin. Also, great to apply to the joints directly or to sunburns, mosquito bites, and/or most any type of skin irritation. Excellent for shaving! 
 
-KELP POWDER: 
+### KELP POWDER: 
 
 Ground kelp granules are a convenient way to get your sea minerals and polysaccharides on a daily basis. They are "salty" yet low in sodium, thanks to their rich complement of other mineral salts. Kelp granules are an especially rich source of fucose (polysaccharide), potassium, iron, iodine, vitamin B6, riboflavin, and dietary fiber, and also contain a natural substance, glutamic acid, that enhances flavor and tenderizes fibrous foods. Phytochemicals in kelp have been shown to absorb and eliminate radioactive elements and heavy metal contaminants from our bodies. 
 
-TOCOTRIENOLS: 
+### TOCOTRIENOLS: 
 
 Tocotrienols are the most potent source of vitamin E and a rich source of B vitamins. Until recently, Vitamin E was thought to be composed of several TOCOPHEROLS, the most powerful form of which is ALPHA-TOCOPHEROL. Vitamin E is of great nutritional importance. All body tissues, especially the adrenal and pituitary glands, have high concentrates of Vitamin E, but storage is mainly in the muscles, fatty tissues, and liver. Recently, a new class of compounds related to the TOCOPHEROLS has been discovered, and these compounds are called TOCOTRIENOLS. According to a noted expert in the field of Vitamin E research, ALPHA-TOCOTRIENOL is 40-60 times more potent than ALPHA-TOCOPHEROL. At the present time, there are four named TOCOTRIENOLS. An additional 20 unnamed TOCOTRIENOLS have been discovered. By way of example, DELTA-TOCOTRIENOL is 200 times more potent than ALPHA-TOCOTRIENOL. This bottle contains alpha, beta, gamma, and delta tocotrienols.
 
-BLUE MANGOSTEEN: 
+### BLUE MANGOSTEEN: 
 
 The key active ingredients in the mangosteen rind are a group of antioxidants called "xanthones." Thus far, at least 40 different xanthones have been identified in the mangosteen, each with a different array of healing properties. The three most well-studied mangosteen xanthones at this time are: alpha-mangostin, gamma-mangostin, and garcinone E. 
 
@@ -145,7 +137,7 @@ ORMUS GOLD: Ormus gold is a mineral product containing Ormus gold, silicon, and 
 
 ecause Ormus gold is a mineral that is present in the joints, the use of Ormus gold may provide radical relief from joint pain and defend against joint degeneration. 
 
-IMMUNE BUILDER: 
+### IMMUNE BUILDER: 
 
 Immune Builder by Mushroom Sciences is a powerful blend of medicinal mushrooms, all of which are notable for their high content of the immune system supporting, connective-tissue building, joint healing, and skin youthening molecules known as beta glucans. Beta glucans is a specific type of polysaccharide (glyconutrient) similar to those found in yacon, goji berries, kelp, and aloe vera. 
 
@@ -153,11 +145,11 @@ Each of the mushrooms in Immune Builder contains beta glucans with unique shapes
 
 Immune Builder contains the following polysaccharide-rich ingredients: Agaricus blazei fruit body extract, Cordyceps sinensis Cs-4 mycelium extract, Coriolus versicolor PSP extract, Reishi (Ganoderma lucidum) fruit body extract, Shiitake (Lentinula edodes) extract, Standardized Patented Extract derived from Maitake Mushroom (Grifola frondosa). 
 
-ALOE VERA: 
+### ALOE VERA: 
 
 Aloe vera is a desert succulent native to East and South Africa which is now grown all over the world. The leaf contains a mucilaginous gel. This gel contains mannose and other polysaccharides that immediately decrease inflammation and pain. Aloe vera is also an excellent source of sulfur and ormus minerals. 
 
-OCEANS ALIVE MARINE PHYTOPLANKTON: 
+### OCEANS ALIVE MARINE PHYTOPLANKTON: 
 
 Marine Phytoplankton are tiny ocean dwelling micro-algae (very tiny plants) that form the basis of the Earth's entire food chain. Gram-for-gram, Oceans Alive Marine Phytoplankton is likely the most nutrient-dense, alkaline superfood on Earth. 
 
