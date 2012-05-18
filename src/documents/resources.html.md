@@ -111,8 +111,7 @@ http://www.barryfarm.com
 Natural Grocers
 http://www.naturalgrocers.com
 
-![Vita Mix Blender Image](/images/blender-img.jpg)
-<https://secure.vitamix.com/Default.aspx?COUPON=06-004312>
+![Vita Mix Blender Image](/images/blender-img.jpg "VitaMix") <https://secure.vitamix.com/Default.aspx?COUPON=06-004312>
 
 ![Health Force Image](/images/health-force.jpg)
 <http://www.healthforce.com/>
