@@ -1,0 +1,50 @@
+@import 'palette'
+
+// brazenly stolen from @csswizardry
+// http://csswizardry.com/2011/02/creating-a-pure-css-dropdown-menu/
+
+color_1 = #fff
+color_2 = green
+color_3 = red
+
+nav#menu ul
+  list-style:none
+  font-weight:bold
+  margin-bottom:10px
+  float:left
+  width:100%
+  li
+    float:left
+    margin-right:10px
+    position:relative
+  a
+    display:block
+    padding:5px
+    color:color_1
+    background:color_2
+    text-decoration:none
+  a:hover
+    color:color_1
+    background:color_3
+    text-decoration:underline
+  ul
+    background:color_1
+    background:rgba(255,255,255,0)
+    list-style:none
+    position:absolute
+    left:-9999px
+    li
+      padding-top:1px
+      float:none
+    a
+      white-space:nowrap
+  li:hover
+    ul
+      left:0
+      a
+        text-decoration:none
+      li a:hover
+        background:color_2
+    a
+      background:color_3
+      text-decoration:underline

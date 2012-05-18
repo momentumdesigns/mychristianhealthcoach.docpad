@@ -27,9 +27,7 @@ html lang: 'en', ->
       header ->
         a '.masthead', href: '/', ->
           h1 'Dawn Lisa Borowski, CHHC, BHC, AADP | Certified Health and Wellness Coach'
-        nav ->
-          ul ->
-            li -> a href: '/', -> 'Home'
+        text @partial 'menu.html.coffee'
       article ->
         text @content
       aside ->
