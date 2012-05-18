@@ -2,7 +2,7 @@
 title: 'Resources'
 layout: 'default'
 ---
-#### Resources
+Resources
 
 Celiac Organization - News Updates and More!
 
@@ -110,6 +110,10 @@ http://www.barryfarm.com
 Natural Grocers[Health Force Image]
 http://www.naturalgrocers.com
 
+<<<<<<< HEAD
+=======
+![Vita Mix Blender Image](/images/blender-img.jpg "VitaMix") <https://secure.vitamix.com/Default.aspx?COUPON=06-004312>
+>>>>>>> parent of 7975965... updates to images
 
 
 
