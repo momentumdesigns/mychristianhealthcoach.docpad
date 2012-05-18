@@ -4,8 +4,7 @@ layout: 'default'
 ---
 Resources
 
-Celiac Organization - news
-updates and more!
+Celiac Organization - News Updates and More!
 
 http://www.celiac.comGluten
 Intolerance Group
@@ -108,11 +107,44 @@ Barry Farm Foods
 (hard to find ingredients)
 http://www.barryfarm.com
 
-Natural Grocers
+Natural Grocers[Health Force Image]
 http://www.naturalgrocers.com
 
+<<<<<<< HEAD
+=======
 ![Vita Mix Blender Image](/images/blender-img.jpg "VitaMix") <https://secure.vitamix.com/Default.aspx?COUPON=06-004312>
+>>>>>>> parent of 7975965... updates to images
 
-![Health Force Image](/images/health-force.jpg)
-<http://www.healthforce.com/>
+
+
+
+![Vita Mix Blender alt](/images/blender_img.jpg "Blender")  
+![Health Force alt](/images/health-force.jpg "HealthForce") 
+
+<http://www.healthforce.com>        <https://secure.vitamix.com>
+
+                                
+
+                    
+                                      
+           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
 
