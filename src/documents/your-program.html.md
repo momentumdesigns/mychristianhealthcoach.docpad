@@ -39,3 +39,9 @@ $195 per month includes:
 </form>
 
 
+During our free initial consultation we will discuss your unique situation in depth and determine how I can help you reach your personal goals. Contact me today to schedule your free consultation.
+
+
+
+
+
