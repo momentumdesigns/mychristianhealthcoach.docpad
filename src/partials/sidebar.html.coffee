@@ -22,7 +22,7 @@ nav '#sidebar', ->
   section '#contact-card', ->
     div '.name', 'Dawn Lisa Borowski'
     div '.job-title', 'Christian Health & Wellness Coach'
-    div '.address', 'Towaco NJ, 07082'
+    div '.address', '6 Wedgewood Drive <br /> Montville NJ, 07436'
     div '.phone', '(973) 332-1559'
     div '.bible-quote', ->
       span '.cite', '(3 John:2) '
