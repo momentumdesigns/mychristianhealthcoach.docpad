@@ -107,17 +107,11 @@ Barry Farm Foods
 (hard to find ingredients)
 http://www.barryfarm.com
 
-Natural Grocers
-http://www.naturalgrocers.com
+[Natural Grocers](http://www.naturalgrocers.com)
 
-![Vita Mix Blender alt](/images/blender-img.jpg "Blender")
+[![Vita Mix Blender](/images/blender-img.jpg "Blender")](https://secure.vitamix.com)
 
-<https://secure.vitamix.com>
-![Health Force alt](/images/health-force.jpg "HealthForce")         
-
-<http://www.healthforce.com>
-                              
-           
+[![Health Force](/images/health-force.jpg "HealthForce")](http://www.healthforce.com)
 
 
 
@@ -132,7 +126,10 @@ http://www.naturalgrocers.com
 
 
 
- 
+
+
+
+
 
 
 
