@@ -1,2 +1,5 @@
-div '.copyright', 'Copyright © 2012, My Christian Health Coach | 6 Wedgewood Drive | Montville, NJ 07436'
-
+span '.copyright', 'Copyright © 2012'
+span '.decorate', ' | '
+span '.title', 'My Christian Health Coach'
+span '.decorate', ' | '
+span '.address', '6 Wedgewood Drive | Montville, NJ 07436'
