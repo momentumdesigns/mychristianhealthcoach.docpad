@@ -75,4 +75,5 @@ At times there are slip ups or times for an occasional retreat from being good a
 In the beginning, prior to Dec 1st, 2011, I had been eating 5 small meals and now I am eating 3 average sized meals.  In the beginning I felt so hungry because I went from eating every 2 to 3 hours to 4 hours.  Dawn encouraged me right along that things would get better and to trust her and they have.
 
 I no longer need to use my inhaler (asthma) each time I exercise and I can breathe easier now and have never felt better.  I listen to my body and if I feel an ache or cramp, I know what to do or not do.  I've learned that I don't need to rely on meds for every little ache or pain, and that the body heals itself most times.  No season depression or regular depression since white sugar was the culprit.  
-It is just one dat at a time as I pursue wholeness and health for my body.  A life long quest.
+It is just one day at a time as I pursue wholeness and health for my body.  A life long quest.
+- Barb Forster
