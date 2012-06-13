@@ -76,4 +76,6 @@ In the beginning, prior to Dec 1st, 2011, I had been eating 5 small meals and no
 
 I no longer need to use my inhaler (asthma) each time I exercise and I can breathe easier now and have never felt better.  I listen to my body and if I feel an ache or cramp, I know what to do or not do.  I've learned that I don't need to rely on meds for every little ache or pain, and that the body heals itself most times.  No season depression or regular depression since white sugar was the culprit.  
 It is just one day at a time as I pursue wholeness and health for my body.  A life long quest.
+
 - Barb Forster
+
