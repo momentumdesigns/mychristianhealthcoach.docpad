@@ -67,3 +67,12 @@ Not only have I lost physical weight, but I have also lost a lot of mental weigh
 We love you Dawn God Bless,
 
 -Allyson S.
+
+Up to this point, I have been off of white sugar for 5 months & gluten free for 2 months and I have felt a renewed feeling of health.
+
+At times there are slip ups or times for an occasional retreat from being good and healthy.  However, I can tell the minute I ingest it because the feeling of vibrancy fades and I feel nausea, headachey and crampy.  I feel much better when I've eaten fresh organic free-range food.  I am beginning to also make my food rather than going out much of the time.  A new confidence and energy has brought that realization to light.  
+
+In the beginning, prior to Dec 1st, 2011, I had been eating 5 small meals and now I am eating 3 average sized meals.  In the beginning I felt so hungry because I went from eating every 2 to 3 hours to 4 hours.  Dawn encouraged me right along that things would get better and to trust her and they have.
+
+I no longer need to use my inhaler (asthma) each time I exercise and I can breathe easier now and have never felt better.  I listen to my body and if I feel an ache or cramp, I know what to do or not do.  I've learned that I don't need to rely on meds for every little ache or pain, and that the body heals itself most times.  No season depression or regular depression since white sugar was the culprit.  
+It is just one dat at a time as I pursue wholeness and health for my body.  A life long quest.
