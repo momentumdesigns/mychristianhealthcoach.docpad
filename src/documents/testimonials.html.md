@@ -2,13 +2,13 @@
 title: 'Testimonials'
 layout: 'default'
 ---
-My Wellness Journey~thus far 
+### My Wellness Journey~thus far 
 
 I think that the most important reason I chose to look for a health coach was depression. I had for many years (since I was a child) dealt with it by using meds prescribed by my family doctor and countless other doctors and counselors. They couldn't seem to get the dose or the right meds and for years I just felt it just was a losing battle. The meds did nothing to help and they always had even worse side effects~a double-edged sword for sure! The meds were really not getting to the root of the anxieties. I found a really great Christian counselor who for several years helped me get to the root of the anxieties and deep depression, but for some reason she would not talk with me unless I had Xanax, Prozac or what have you in my system! Pitiful! So I was on these down and up anxieties, dark moods, melt-downs, SAD,etc. I had come to the end of one session and my counselor said that that was all she could do for me. However, she suggested a psychiatrist to look into the why's of my depression that seemingly was worse than she could deal with. So frustrating! The Psychiatrist said I was OCD, PTSD, bipolar; and a whole bunch of alphabet soup distinctions and I made up my mind from that point that I was not going to kowtow to meds again. Nope! 
 
 My husband looked online for a Health Coach. Someone who is a Christian and I am and could help me figure out the root of the depression and anxiety. I met with Dawn over the phone. This was the person I was looking for ! God put me in touch with a personable, loving and generous woman of God. Wow! I am so glad I called her!! I called her a couple days after my 50th birthday and have been so pleased with the results of feeling energetic and whole. It is a new experience for me because I had really never felt this really healthy before! What a difference she (Dawn) has made in my life! The real culprit? SUGAR!!! I have been off of white sugar for 2 months now and I have never felt better! What an eye-opening experience! Who knew that going off the white stuff would change so much? I had a real hard time, in the beginning, because I was so attached to it. I was a slave to sugar. I had to have it to pump me up, at the end of every meal, when I was sad, angry,etc. And now that has gone away. No need for the processed sweetener. The chains have been lifted and I have no more problems with anxieties, depression, SAD,etc. I do feel sadness at times but not the drag-me-down tormenting angst I had in the past. Thank You Jesus! 
 
--B.F. Poughkeepsie, NY
+### -B.F. Poughkeepsie, NY
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/_79C58APlU8" frameborder="0" allowfullscreen></iframe> 
 
@@ -22,9 +22,11 @@ A great encourager, Dawn will always remind you that "on her watch", you will su
 
 If you are ready to change the way you think about yourself, replace your old habits with new ones, learn about the food you consume and what your body needs, then you want someone who lives what she believes with conviction, knowledge and caring. You are definitely going to want Dawn on your side to champion for your health! 
 
-Thank you Dawn for your support, friendship and genuine passion and concern to see the whole world healthy. -Anita Perez   
+Thank you Dawn for your support, friendship and genuine passion and concern to see the whole world healthy. 
 
-Hello, 
+### -Anita Perez   
+
+### Hello, 
 
 I would like to take a moment to testify of how Dawn, my biblical health coach, has touched my life. For starters, I would like to state that I have not yet "crossed the finish line" yet! However, I can see that I am making great progress, to which I am grateful! Every journey of a thousand miles begins with one step, and I have made many steps in my journey with Dawn's help. 
 
@@ -36,11 +38,11 @@ With the help of Dawn, I take each day as a brand new opportunity to do the righ
 
 Thank you, Dawn, for being consistently compassionate towards those like myself that have lacked the education (and desire) that is vital to healthy living. May God bless you as you continue to lead others towards wholeness: body, soul, and spirit. 
 
--Anna Barreto   
+### -Anna Barreto   
 
 It has been an honor and pleasure to have met Mrs. Dawn Borowski. She has been such an inspiration to me in all the four pillars of health (spiritual, metal, physical, and emotional). Dawn and I met at a pivotal moment in my life and I am so grateful God ordained our paths to meet. She has given me so much direction in my spiritual life in leading me to a personal relationship with my Lord and Savior Jesus Christ. Her concern and prayers for me have been an enormous blessing. As for my physical well being, Dawn has given me so much valuable information and advise. She is truly a living testimony to her God given gift and passion. She not only talks the talk but she walks the walk!! I have struggled with my health my whole life and in the past 3 years I made a personal decision to reclaim my life and be healthier. I was on the right track but working with Dawn I have excelled tremendously. Not only have I benefited from Dawns knowledge but several of my family members are now making healthier choices and are on the road to a healthier life style. Dawn has taught me about quality food and how to make the right choices as a consumer. She has also taught me many unique ways to prepare it. I have learned about nutrient dense foods such as organic fruits and vegetables, Quinoa, non- dairy drinks, almond butter (a personal favorite) Ezekiel products, and many more. All of which have become permanent staples in my daily dietary choices. I have recently starting juicing as well which has replaced my usual caffeine ridden coffee in the morning. Obviously a healthier choice. Dawn has also helped me to incorporate my healthy choices into my children's diet which was a huge challenge. Hopefully the information I share with my children will help them to make healthier choices in their future and live a long, high-quality life. Before meeting Dawn i also suffered with acne and have spent a lot of money and have had many painful visits to the dermatologist. I have changed my skin care to a more natural option which has not only improved my skin tremendously but has saved me money. Dawn has educated me with a plethora of information in the many areas of health and wellness. Her passion for helping people has been such a gift to me and my family and I can honestly say meeting Dawn has completely changed my life for the better. I thank her from the bottom of my heart and look forward to every time we meet for her knowledge seems to have no end. May God always bless my mentor, friend, and sister in Christ. 
 
--Veronica P.  
+### -Veronica P.  
 
 So here is my Little testimony to your health classes: About twenty three years ago I quit smoking. Glory to God it was one of the best things I have done for myself, unfortunately once I quit smoking I starting eating out of control. Over the years I tried every diet out there from Jenny Craig to Weight Watchers to starvation. None were successful, I even gave up the idea of loosing weight and certainly was not eating with health and wellness in mind. Growing up Italian, pasta and bread are a normal staple. Our family had pasta sometimes three times a week, not to mention the sweets, ice cream, and any other food indulgences you could think of. 
 
@@ -54,7 +56,7 @@ I started to experience personal miracles. From the dietary changes I learned fr
 
 So the journey continues.....and it is a journey, not just a few weeks or months, but an entire lifestyle change....but i couldn't have started the journey without Dawn. i am totally thankful the Lord has brought her into my life. May God ricly bless you Dawn for your desire to share and encourage God's people to grab a hold of a mor abundant life! Love you Dawn! 
 
--Paula  
+### -Paula  
 
 I am honored to share my testimony of the past year of my life. First thing I would like to say is that Dawn Borowski has been an incredible blessing to me and my family. She puts her heart and soul into all that she does. She teaches in love and is kind and caring. I have had the special privilege to study under Dawn since May 2009. I learned so much information in just my first three classes, that I was able to see immediate results as I applied the changes in my life. My 14 year old daughter attended the first three classes with me as well, and her eating patterns and dietary choices have changed dramatically as well. 
 
@@ -66,7 +68,7 @@ Not only have I lost physical weight, but I have also lost a lot of mental weigh
 
 We love you Dawn God Bless,
 
--Allyson S.
+### -Allyson S.
 
 Up to this point, I have been off of white sugar for 5 months & gluten free for 2 months and I have felt a renewed feeling of health.
 
@@ -75,7 +77,8 @@ At times there are slip ups or times for an occasional retreat from being good a
 In the beginning, prior to Dec 1st, 2011, I had been eating 5 small meals and now I am eating 3 average sized meals.  In the beginning I felt so hungry because I went from eating every 2 to 3 hours to 4 hours.  Dawn encouraged me right along that things would get better and to trust her and they have.
 
 I no longer need to use my inhaler (asthma) each time I exercise and I can breathe easier now and have never felt better.  I listen to my body and if I feel an ache or cramp, I know what to do or not do.  I've learned that I don't need to rely on meds for every little ache or pain, and that the body heals itself most times.  No season depression or regular depression since white sugar was the culprit.  
+
 It is just one day at a time as I pursue wholeness and health for my body.  A life long quest.
 
-- Barb Forster
+### -Barb Forster
 
