@@ -2,13 +2,16 @@ links = [{
   uri: '/articles.html',
   name: 'Articles'
 },{
-  uri: '/healing-scriptures.html',
+  uri: '/healing-scriptures-women.html',
   name: 'Healing Scriptures'
 },{
   uri: '/recipes.html',
   name: 'Recipes'
 },{
   uri: '/referrals.html',
+  name: 'Referrals'
+},{
+  uri: '/turnaround-program.html',
   name: 'Referrals'
 }]
 
