@@ -12,7 +12,7 @@ links = [{
   name: 'Referrals'
 },{
   uri: '/turnaround-program.html',
-  name: 'Referrals'
+  name: 'Turn Around Program'
 }]
 
 nav '#sidebar', ->
