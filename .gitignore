@@ -8,3 +8,4 @@ node_modules
 # generated site
 out
 
+.divshot-cache
