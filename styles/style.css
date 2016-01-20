@@ -1,0 +1,40 @@
+@import '/vendor/normalize.css';
+nav#menu ul{list-style:none;font-weight:bold;margin-bottom:10px;float:left;width:100%;background:#9bcd6e;}
+nav#menu ul li{float:left;margin-right:10px;position:relative}
+nav#menu ul a{display:block;padding:5px;color:#fff;background:#9bcd6e;text-decoration:none}
+nav#menu ul a:hover{color:#fff;background:#7a1a1a;text-decoration:underline}
+nav#menu ul ul{background:#fff;background:rgba(255,255,255,0.00);list-style:none;position:absolute;left:-9999px;}
+nav#menu ul ul li{padding-top:1px;float:none}
+nav#menu ul ul a{white-space:nowrap}
+nav#menu ul li:hover ul{left:0;}
+nav#menu ul li:hover ul a{text-decoration:none}
+nav#menu ul li:hover ul li a:hover{background:#9bcd6e}
+nav#menu ul li:hover a{background:#7a1a1a;text-decoration:underline}
+img[title~=Produce]{float:right;height:224.8px;width:345.6px}
+img[title~=ArmsUpLady]{float:left}
+img[title~=Vegetables]{float:right;height:224.8px;width:345.6px}
+img[title~=Blender]{float:right}
+img[title~=HealthForce]{right:justify;height:132px;width:160.8px}
+img[title~=VitaMix]{float:left}
+body{width:100%;*zoom:1;}
+body:before,body:after{content:"";display:table}
+body:after{clear:both}
+section#page-body{width:936px;margin:0 auto;overflow:hidden;}
+section#page-body header{display:inline;float:left;overflow:hidden;width:906px;margin:0 14.999999999999998px;*width:906px -correction;*margin:0 14.999999999999998px -correction;}
+section#page-body header a.masthead{display:block;height:200px}
+section#page-body header h1{display:none}
+section#page-body article{display:inline;float:left;overflow:hidden;width:672px;margin:0 14.999999999999998px;*width:672px -correction;*margin:0 14.999999999999998px -correction}
+section#page-body aside{display:inline;float:left;overflow:hidden;width:204px;margin:0 14.999999999999998px;*width:204px -correction;*margin:0 14.999999999999998px -correction}
+section#page-body footer{display:inline;float:left;overflow:hidden;width:906px;margin:0 14.999999999999998px;*width:906px -correction;*margin:0 14.999999999999998px -correction}
+a{color:#9bcd6e;}
+a:hover{color:#666}
+footer a,header nav a{color:#333;}
+footer a:hover,header nav a:hover{color:#fff}
+section#page-body{-webkit-box-shadow:0 0 25px 10px #b7dbeb;-moz-box-shadow:0 0 25px 10px #b7dbeb;box-shadow:0 0 25px 10px #b7dbeb;border-left:1px solid #b7dbeb;border-right:1px solid #b7dbeb;background:-10px 0 url("../images/site-construction-02.jpg") no-repeat;}
+section#page-body > footer{background:-webkit-gradient(linear, left top, left bottom, color-stop(0, #b8db9a), color-stop(1, #68874a));background:-webkit-linear-gradient(top, #b8db9a 0%, #68874a 100%);background:-moz-linear-gradient(top, #b8db9a 0%, #68874a 100%);background:-o-linear-gradient(top, #b8db9a 0%, #68874a 100%);background:-ms-linear-gradient(top, #b8db9a 0%, #68874a 100%);background:linear-gradient(top, #b8db9a 0%, #68874a 100%)}
+section#contact-card{background-image:url("../images/right-sidebar.jpg");background-repeat:no-repeat;display:block;width:196px;height:420px;padding:200px 0 0;}
+section#contact-card div{margin:20px}
+section#contact-card div.name{font-size:1.3em;color:#fff;font-weight:bold}
+section#contact-card div.job-title,section#contact-card div.address,section#contact-card div.phone{font-size:1em;color:#666;font-weight:bold}
+section#contact-card div.bible-quote{font-size:.8em;}
+section#contact-card div.bible-quote span.quote{font-style:italic}
